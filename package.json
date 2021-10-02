@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "honkit build src docs",
+    "serve": "honkit serve src docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
